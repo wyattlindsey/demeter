@@ -1,4 +1,4 @@
-# Demeter - WIP
+# Demeter - WIP - Custom react-three.js module version
 
 This is an attempt to build an easily extensible React application using serialized components.
 
